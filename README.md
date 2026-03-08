@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Britney Polanco</h1>
 <h3 align="center">A passionate frontend developer from Dominican Republic</h3>
-- 🔭 I’m currently working on **Frontend web projects and personal web applications**<br>- 💬 Ask me about **Frontend development, Scrum teamwork, and web projects**<br>- 📫 How to reach me **britney.workmail91@gmail.com**<br>- 📄 Know about my experiences (Software development projects, Frontend development, Scrum Master experience)<br>- ⚡ Fun fact **I debug my code better after coffee**
+- 🔭 I’m currently working on Frontend web projects and personal web applications<br>- 💬 Ask me about Frontend development, Scrum teamwork, and web projects<br>- 📫 How to reach me britney.workmail91@gmail.com<br>- 📄 Know about my experiences (Software development projects, Frontend development, Scrum Master experience)<br>- ⚡ Fun fact I debug my code better after coffee
 
 
 # 💻 Tech Stack:
